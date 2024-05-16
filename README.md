@@ -26,17 +26,24 @@
 <br />
 
 <div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJtc2F1a21iMGo0ZnF0MzVndTM1azg5d2FjZGx6eGJ4ODRxNW9xMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized.gif" align="left" width="300"gap="20"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFxaDJzOGJxbHdncXd5ZTRrMDB0OWlreTI2MmVjN25wb2dzdW1kNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" align="right" width="300" gap="20"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJtc2F1a21iMGo0ZnF0MzVndTM1azg5d2FjZGx6eGJ4ODRxNW9xMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized.gif" align="left" width="250"gap="20"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFxaDJzOGJxbHdncXd5ZTRrMDB0OWlreTI2MmVjN25wb2dzdW1kNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" align="right" width="250" gap="20"/>
 </div>
-<div  align="center">
-  <ul listStyle="none">
-    <li>🔭 I’m currently working on ... Avitica</li>
-    <li>🌱 I’m currently learning ... utilizing third-party APIs that generate tokens</li>
-    <li>👯 I’m looking to collaborate on ... open source</li>
-    <li>🤔 I’m looking for help with ... Docker</li>
-    <li> 💬 Ask me about ... any deep topics</li>
-    <li>⚡ Fun fact: ... I love making music 🎶, reading 📖, meditation 🧘‍♀️, writing 📝, and gaming 🎮</li>
+<div  align="center" list-style-type="none">
+  <ul list-style-type="none">
+    <span> 🌇 Born in Boston, MA | Residing in Chicago, IL 🏙️/span>
+    <br />
+    <span>🔭 I’m currently working on ... Avitica</span>
+    <br />
+    <span>🌱 I’m currently learning ... utilizing third-party APIs that generate tokens</span>
+    <br />
+    <span>👯 I’m looking to collaborate on ... open source</span>
+    <br />
+    <span>🤔 I’m looking for help with ... Docker</span>
+    <br />
+    <span> 💬 Ask me about ... any deep topics</span>
+    <br />
+    <span>⚡ Fun fact: ... I love making music 🎶, reading 📖, meditation 🧘‍♀️, writing 📝, and gaming 🎮</span>
   </ul>
 </div>
 <br />
