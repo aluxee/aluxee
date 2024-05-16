@@ -43,7 +43,7 @@
     <br />
     <span> 💬 Ask me about ... any deep topics</span>
     <br />
-    <span>⚡ Fun fact: ... I love making music 🎶, reading 📖, meditation 🧘‍♀️, writing 📝, and gaming 🎮</span>
+    <span>⚡ Fun fact ... I love making music 🎶, reading 📖, meditation 🧘‍♀️, writing 📝, and gaming 🎮</span>
   </ul>
 </div>
 <br />
